@@ -753,8 +753,8 @@
   contact: https://github.com/waqqas/feature/issues
   repository: https://github.com/waqqas/feature/
   ociReference: ghcr.io/waqqas/feature
-- name: Veryl
-  maintainer: dalance
-  contact: https://github.com/veryl-lang/devcontainer-features/issues
-  repository: https://github.com/veryl-lang/devcontainer-features/
-  ociReference: ghcr.io/veryl-lang/devcontainer-features
+- name: Dev Container features (Cadu Ribeiro)
+  maintainer: Cadu Ribeiro
+  contact: https://github.com/duduribeiro/devcontainer-features/issues
+  repository: https://github.com/duduribeiro/devcontainer-features/
+  ociReference: ghcr.io/duduribeiro/devcontainer-features
